@@ -1,11 +1,4 @@
-streamlit 
-numpy 
-pandas 
-joblib 
-seaborn 
-matplotlib.pyplot 
-sklearn
-mpld3
+
 # Load model
 model = jb.load('boston_rf.pkl')
 # Single prediction
