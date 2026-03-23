@@ -1,14 +1,11 @@
-import streamlit as st
-import numpy as np
-import pandas as pd
-import joblib as jb
-from PIL import Image
-import seaborn as sns
-import matplotlib.pyplot as plt
-import sklearn
-import matplotlib.pyplot as plt
-from sklearn.metrics import r2_score,mean_squared_error
-import seaborn as sns
-from sklearn.ensemble import RandomForestRegressor
-import plotly.express as px
-import plotly.graph_objects as go
+streamlit 
+numpy 
+pandas 
+joblib 
+PIL 
+seaborn
+matplotlib
+sklearn
+seaborn 
+RandomForestRegressor
+plotly
