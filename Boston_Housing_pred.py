@@ -1,11 +1,11 @@
-import streamlit 
-import numpy 
-import pandas 
-import joblib 
-import seaborn 
-import matplotlib.pyplot 
-import sklearn
-import mpld3
+ streamlit 
+numpy 
+pandas 
+joblib 
+seaborn 
+matplotlib.pyplot 
+sklearn
+mpld3
 # Load model
 model = jb.load('boston_rf.pkl')
 # Single prediction
