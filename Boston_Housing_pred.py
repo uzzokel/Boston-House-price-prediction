@@ -2,7 +2,7 @@ import streamlit
 import numpy 
 import pandas 
 import joblib 
-from PIL 
+from PIL import Image
 import seaborn 
 import matplotlib.pyplot 
 import sklearn
