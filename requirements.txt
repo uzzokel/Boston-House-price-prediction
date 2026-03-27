@@ -1,6 +1,4 @@
 joblib 
-PIL 
-mpld3
 streamlit
 pandas
 numpy
