@@ -6,3 +6,4 @@ scikit-learn
 matplotlib
 seaborn
 mpld3
+plotly
