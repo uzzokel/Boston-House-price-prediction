@@ -4,6 +4,6 @@ pandas
 joblib 
 PIL 
 seaborn 
-matplotlib.pyplot 
+matplotlib
 scikit-learn
 mpld3
