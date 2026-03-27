@@ -1,6 +1,6 @@
 
 # Load model
-model = pickle.load('boston_rf.pkl')
+model = joblib.load('boston_rf.pkl')
 # Single prediction
 # App title
 image = Image.open("pexels-photo-2911260.jpeg")
