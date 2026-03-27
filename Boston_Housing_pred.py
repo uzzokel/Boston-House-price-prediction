@@ -24,11 +24,11 @@ st.markdown("<h1 style ='text-align:center;'> Boston Housing Prices ML Model Dep
 #main Container
 st.markdown("""<style> .stApp{background-color:white;}</style>""", unsafe_allow_html=True)
 
-fd = pd.read_csv(r"C:\Users\UZO\Documents\python_class\fd.csv")
+fd = pd.read_csv("fd.csv")
 st.dataframe(fd.head())
 # Input options
 st.sidebar.header("Input Features")
-st.sidebar.image(r"C:\Users\UZO\Documents\python_class\house.jpg")
+st.sidebar.image("house.jpg")
 html_temp = """
 <div style = "color;red, padding:10px>"
 <h4 style ='text-align:center;'>The Price is the MEDV in $1000</h4>"
