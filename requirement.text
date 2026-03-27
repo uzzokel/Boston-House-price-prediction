@@ -1,11 +1,9 @@
 streamlit 
 numpy 
 pandas 
-joblib 
-PIL 
+joblib  
 seaborn
 matplotlib
 sklearn
 seaborn 
-RandomForestRegressor
 plotly
